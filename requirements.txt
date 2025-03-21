@@ -1,0 +1,5 @@
+FastAPI
+SQLAlchemy
+pymysql
+uvicorn
+python-dotenv
